@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.ibb.co/wNT3Gfym/GitHub.png"  />
-</div>
-
-###
-
 <h4 align="left">Sobre mim</h4>
 
 ###

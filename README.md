@@ -2,17 +2,21 @@
 
 ###
 
-<h4 align="left">Sobre mim</h4>
+<div align="center">
+  <img height="230" src="https://i.ibb.co/wNT3Gfym/GitHub.png"  />
+</div>
 
 ###
 
-<br clear="both">
+<h2 align="left">Sobre mim</h2>
+
+###
 
 <p align="left">Olá, sou o Daniel, um dev cursando ADS no IFSP. Apaixonado por tecnologia e jogos. 🎮💻<br>Minhas stacks incluem Java, Java Spring, HTML, CSS, JS, C, PHP e Python. 🚀<br>Me siga para acompanhar o que estou aprendendo!<br>Estou de olho em novas oportunidades e desafios! 👨‍💻👀</p>
 
 ###
 
-<h4 align="left">About me</h4>
+<h2 align="left">About me</h2>
 
 ###
 
@@ -27,7 +31,7 @@
 
 ###
 
-<h3 align="center"><Contato></h3>
+<h2 align="center"><Contato></h2>
 
 ###
 
@@ -45,7 +49,7 @@
 
 ###
 
-<h3 align="center"><Stacks></h3>
+<h2 align="center"><Stacks></h2>
 
 ###
 

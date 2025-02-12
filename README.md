@@ -12,6 +12,8 @@
 
 ###
 
+<br clear="both">
+
 <p align="left">Olá, sou o Daniel, um dev cursando ADS no IFSP. Apaixonado por tecnologia e jogos. 🎮💻<br>Minhas stacks incluem Java, Java Spring, HTML, CSS, JS, C, PHP e Python. 🚀<br>Me siga para acompanhar o que estou aprendendo!<br>Estou de olho em novas oportunidades e desafios! 👨‍💻👀</p>
 
 ###

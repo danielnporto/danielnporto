@@ -1,9 +1,5 @@
-<h2 align="left">Hi 👋! Im Daniel Navarro.</h2>
-
-###
-
 <div align="center">
-  <img height="230" src="https://i.ibb.co/wNT3Gfym/GitHub.png"  />
+  <img height="230" src="https://i.ibb.co/HfNZRx85/Git-Hub-1.jpg"/>
 </div>
 
 ###
@@ -25,22 +21,25 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=danielnporto&locale=en&mode=daily&theme=noctis_minimus&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielnporto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=noctis_minimus&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=danielnporto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielnporto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blueberry&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h2 align="center"><Contato></h2>
+<h2 align="center">&lt;Social&gt;</h2>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/danielnporto" target="_blank">
+  <a href="https://linkedin.com/in/danielnporto" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="danielnporto10@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://instagram.com/danielnporto" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://api.whatsapp.com/send?phone=5511963017951&text=Ol%C3%A1!" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
@@ -49,7 +48,7 @@
 
 ###
 
-<h2 align="center"><Stacks></h2>
+<h2 align="center">&lt;Stack&gt;</h2>
 
 ###
 
@@ -67,6 +66,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
